@@ -1,13 +1,13 @@
-## Hello ! I am Yunnuo <img src="https://pa1.narvii.com/6999/cca8fb28b1db2dcd1820dfa09655d2a73fc04f06r1-960-480_hq.gif" width = 200>
+## Hello ! I am Yunnuo (Noah) Zhang
 
 - :school: I am a `junior` at Georgia Tech studying Computer Science, my concentration is Infomation Network and Intelligence
-- :student: I’m currently working on [this](https://tele-tube.github.io/) chrome extension
+- :student: During my last internship, I am working on [this](https://tele-tube.github.io/) chrome extension
 
 
 
 ## My Projects 
 
-**My Fav Projects**
+**My Projects**
 
 [![ElonBot](https://img.shields.io/badge/Web%20App-GPT2%20Text%20Generator-black?style=plastic&logo=twitter)](https://github.com/Siqi-Fang/tweet_generator)
 
@@ -58,4 +58,4 @@
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=7oSkaaa&theme=algolia" alt="7oSkaaa" /></p>
 
-![View](https://komarev.com/ghpvc/?username=Siqi-Fang)
+![View](https://komarev.com/ghpvc/?username=NoahZhang1)
