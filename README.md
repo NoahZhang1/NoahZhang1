@@ -35,7 +35,7 @@
 **Languages I have used**
 
 
-![Python](https://img.shields.io/badge/python-sklearn%20%7C%20pandas%20%7C%20numpy%20%7C%20xgboost%20%7C%20matplotlib%20%7C%20seaborne-black?style=flat&logo=python)
+![Python](https://img.shields.io/badge/python-sklearn%20%7C%20pandas%20%7C%20numpy-black?style=flat&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
