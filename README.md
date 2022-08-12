@@ -57,7 +57,6 @@
 
 
 ## 🔥 Streak Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NoahZhang1)](https://git.io/streak-stats)
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=7oSkaaa&theme=algolia" alt="7oSkaaa" /></p>
+<p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=NoahZhang1&theme=highcontrast"  /></p>
 
 ![View](https://komarev.com/ghpvc/?username=NoahZhang1)
