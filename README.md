@@ -3,19 +3,27 @@
 - :school: I am a `junior` at Georgia Tech studying Computer Science, my concentration is Infomation Network and Intelligence
 - :student: During my last internship, I am working on [this](https://tele-tube.github.io/) chrome extension
 
+## Contact Me!
+<p align="center">
+	<a href="mailto:yzhang3563@gatech.edu"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://github.com/NoahZhang1"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/yunnuozhang/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
 
 
 ## My Projects 
 
 **My Projects**
 
-[![ElonBot](https://img.shields.io/badge/Web%20App-GPT2%20Text%20Generator-black?style=plastic&logo=twitter)](https://github.com/Siqi-Fang/tweet_generator)
+[![ElonBot](https://img.shields.io/badge/GPT2-Code%20Autocomplete-blue)](https://github.com/NoahZhang1/SC22-BatchA-wireless-union)
+[![ElonBot](https://img.shields.io/badge/GPT2-Fake%20News%20Generator-blue)](https://github.com/NoahZhang1/-SC22-BatchB-wireless-union)
+[![ElonBot](https://img.shields.io/badge/GPT2-GrammarFix/StyleChange%20Writing%20Assistant-blue)](https://github.com/NoahZhang1/SC22-BatchC-wireless-union-)
 
 
 **🛠️Still Working On..**
 
 [![TSA APP](https://img.shields.io/badge/app-Sentiment%20Analysis-black?style=plastic&logo=django)](https://github.com/Siqi-Fang/twitter_sentiment_deploy)
-[![ATOP Visualization](https://img.shields.io/badge/%F0%9F%92%A1ATOP%20Visualization-R%20Shiny-black?style=plastic)](https://github.com/Siqi-Fang/ATOP_Shiny_App)
+
 
 
 ## My Skills
@@ -43,15 +51,8 @@
 ![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=django)
 ![BS](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)
 ![Docker](https://img.shields.io/badge/Docker-black?style=flat&logo=docker)
-![PythonAny](https://img.shields.io/badge/PythonAnywhere-black?style=flat&logo=python)
 
 
-## Connect with me
-<p align="center">
-	<a href="mailto:sfang@hamilton.edu"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/Siqi-Fang"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/siqi-fang47/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-</p>
 
 
 
