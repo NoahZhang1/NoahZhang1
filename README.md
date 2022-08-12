@@ -15,7 +15,7 @@
 
 **My Previous Projects**
 
-*TO BE EDITED
+`TO BE EDITED`
 
 **During My Internship at AI Camp**
 
