@@ -13,7 +13,11 @@
 
 ## My Projects 
 
-**My Projects**
+**My Previous Projects**
+
+*TO BE EDITED
+
+**During My Internship at AI Camp**
 
 [![ElonBot](https://img.shields.io/badge/GPT2-Code%20Autocomplete-blue)](https://github.com/NoahZhang1/SC22-BatchA-wireless-union)
 [![ElonBot](https://img.shields.io/badge/GPT2-Fake%20News%20Generator-blue)](https://github.com/NoahZhang1/-SC22-BatchB-wireless-union)
@@ -22,7 +26,7 @@
 
 **🛠️Still Working On..**
 
-[![TSA APP](https://img.shields.io/badge/app-Sentiment%20Analysis-black?style=plastic&logo=django)](https://github.com/Siqi-Fang/twitter_sentiment_deploy)
+[![TSA APP](https://img.shields.io/badge/TeleTube-blue)](https://github.com/NoahZhang1/youtube-bookmarker-starter-code)
 
 
 
