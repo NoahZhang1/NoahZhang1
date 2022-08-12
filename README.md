@@ -36,9 +36,6 @@
 
 
 ![Python](https://img.shields.io/badge/python-sklearn%20%7C%20pandas%20%7C%20numpy%20%7C%20xgboost%20%7C%20matplotlib%20%7C%20seaborne-black?style=flat&logo=python)
-
-![R](https://img.shields.io/badge/R-shiny%20%7C%20tidyverse%20%7C%20ggplot2%20%7C%20plotly-black?style=flat&logo=R)
-
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
