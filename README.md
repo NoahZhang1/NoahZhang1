@@ -65,7 +65,6 @@
 ## 🔥 Streak Stats
 <p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=NoahZhang1&theme=highcontrast"  /></p>
 
-![View](https://komarev.com/ghpvc/?username=NoahZhang1)
 
 ## Contact Me!
 <p align="center">
@@ -73,3 +72,5 @@
 	<a href="https://github.com/NoahZhang1"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/yunnuozhang/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
+
+![View](https://komarev.com/ghpvc/?username=NoahZhang1)
