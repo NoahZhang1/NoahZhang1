@@ -15,7 +15,7 @@
 
 **Undergraduate Research**
 
-[![TSA APP](https://img.shields.io/badge/Proposal)](https://drive.google.com/file/d/1aPcBgBgYgd81r0rZbqd6cmArZs_dT-5i/view?usp=sharing)
+[![Thesis Proposal]](https://drive.google.com/file/d/1aPcBgBgYgd81r0rZbqd6cmArZs_dT-5i/view?usp=sharing)
 
 **Internship at AI Camp**
 
