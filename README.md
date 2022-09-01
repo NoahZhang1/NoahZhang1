@@ -13,11 +13,11 @@
 
 ## My Projects 
 
-**My Previous Projects**
+**Undergraduate Research**
 
-`TO BE EDITED`
+[![TSA APP](https://img.shields.io/badge/Proposal)](https://drive.google.com/file/d/1aPcBgBgYgd81r0rZbqd6cmArZs_dT-5i/view?usp=sharing)
 
-**During My Internship at AI Camp**
+**Internship at AI Camp**
 
 [![ElonBot](https://img.shields.io/badge/GPT2-Code%20Autocomplete-blue)](https://github.com/NoahZhang1/SC22-BatchA-wireless-union)
 [![ElonBot](https://img.shields.io/badge/GPT2-Fake%20News%20Generator-blue)](https://github.com/NoahZhang1/-SC22-BatchB-wireless-union)
