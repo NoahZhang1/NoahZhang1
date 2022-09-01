@@ -3,12 +3,6 @@
 - :school: I am a `3rd year` student at Georgia Tech studying Computer Science, my concentration is Infomation Network and Intelligence
 - :student: During my last internship, I am working on [this](https://tele-tube.github.io/) chrome extension
 
-## Contact Me!
-<p align="center">
-	<a href="mailto:yzhang3563@gatech.edu"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/NoahZhang1"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/yunnuozhang/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-</p>
 
 ## MY RESUME (last update 09.01.2022)!
 <p align="center">
@@ -72,3 +66,10 @@
 <p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=NoahZhang1&theme=highcontrast"  /></p>
 
 ![View](https://komarev.com/ghpvc/?username=NoahZhang1)
+
+## Contact Me!
+<p align="center">
+	<a href="mailto:yzhang3563@gatech.edu"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://github.com/NoahZhang1"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/yunnuozhang/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
