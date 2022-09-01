@@ -13,24 +13,26 @@
 
 ## My Projects 
 
-#**Hack United Nations@Tsinghua University Shenzhen Institute**
-
-[[Sleepal-fNIRS-based sleep monitoring system]](http://www.x-lab.tsinghua.edu.cn/?c=nurture&a=projectshow&id=4109)
-
-#**Undergraduate Research @GT BrainLab**
+**Undergraduate Research @GT BrainLab**
 
 [![Auditory Steady State Response](https://img.shields.io/badge/-Auditory%20Steady%20State%20Response-blue)](https://github.com/NoahZhang1/ASSRStimulus)
 
 [[Thesis Proposal]](https://drive.google.com/file/d/1aPcBgBgYgd81r0rZbqd6cmArZs_dT-5i/view?usp=sharing)
 
-#**Internship at AI Camp**
+
+**Hack United Nations@Tsinghua University Shenzhen Institute**
+
+[[Sleepal - fNIRS-based sleep monitoring system]](http://www.x-lab.tsinghua.edu.cn/?c=nurture&a=projectshow&id=4109)
+
+
+**Internship at AI Camp**
 
 [![ElonBot](https://img.shields.io/badge/GPT2-Code%20Autocomplete-blue)](https://github.com/NoahZhang1/SC22-BatchA-wireless-union)
 [![ElonBot](https://img.shields.io/badge/GPT2-Fake%20News%20Generator-blue)](https://github.com/NoahZhang1/-SC22-BatchB-wireless-union)
 [![ElonBot](https://img.shields.io/badge/GPT2-GrammarFix/StyleChange%20Writing%20Assistant-blue)](https://github.com/NoahZhang1/SC22-BatchC-wireless-union-)
 
 
-#**🛠️Still Working On..**
+**🛠️Still Working On..**
 
 [![TSA APP](https://img.shields.io/badge/TeleTube-blue)](https://github.com/NoahZhang1/youtube-bookmarker-starter-code)
 
