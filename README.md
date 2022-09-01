@@ -19,7 +19,7 @@
 
 #**Undergraduate Research @GT BrainLab**
 
-[[Auditory Steady State Response]](https://img.shields.io/badge/-Auditory%20Steady%20State%20Response-blue)(https://github.com/NoahZhang1/ASSRStimulus)
+[![Auditory Steady State Response](https://img.shields.io/badge/-Auditory%20Steady%20State%20Response-blue)](https://github.com/NoahZhang1/ASSRStimulus)
 
 [[Thesis Proposal]](https://drive.google.com/file/d/1aPcBgBgYgd81r0rZbqd6cmArZs_dT-5i/view?usp=sharing)
 
