@@ -44,7 +44,7 @@
 
 ## My Skills
 
-**Languages I have used**
+**Programming Language**
 
 
 ![Python](https://img.shields.io/badge/python-sklearn%20%7C%20pandas%20%7C%20numpy-black?style=flat&logo=python)
@@ -55,11 +55,10 @@
 
 
 
-**Some technologies I have worked with**
+**Framework and Technologies**
 
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
-![Jupyter Notebook](https://img.shields.io/badge/-JupyterNotebook-000000?style=flat&logo=jupyter)
 ![Flask](https://img.shields.io/badge/Flask-black?style=flat&logo=flask)
 ![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=django)
 ![BS](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)
