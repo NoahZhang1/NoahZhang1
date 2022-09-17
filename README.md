@@ -6,7 +6,7 @@
 
 ## MY RESUME (last update 09.01.2022)!
 <p align="center">
-	<a href="https://drive.google.com/file/d/18dL6Ih0WwVTmdidiLwju_DmCKT3cLw3k/view?usp=sharing"><img img src="https://img.shields.io/badge/-resume-lightgrey" alt="Resume"/></a>
+	<a href="https://drive.google.com/file/d/1SmtIxeZcAQSxSii97UUB5j1lViYyiID8/view?usp=sharing"><img img src="https://img.shields.io/badge/-resume-lightgrey" alt="Resume"/></a>
 
 
 ## My Projects 
