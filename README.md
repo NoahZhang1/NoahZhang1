@@ -1,7 +1,7 @@
 ## Hello! I am Yunnuo (Noah) Zhang
 
-- :school: I am a  `SENIOR` student at Georgia Tech studying Computer Science, my concentration is Infomation Network and Intelligence, I plan to graduate  in `Dec 2023`
-- :student: During my last internship, I am working on [this](https://tele-tube.github.io/) chrome extension
+- :school: I am a  `SENIOR` student at Georgia Tech studying Computer Science, my concentration is Infomation Network and Intelligence, I plan to graduate  in `May 2024`
+
 
 
 ## PERSONAL WEBSITE
