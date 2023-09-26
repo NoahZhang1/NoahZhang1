@@ -4,7 +4,7 @@
 - :student: During my last internship, I am working on [this](https://tele-tube.github.io/) chrome extension
 
 
-## PERSONAL WEBSITE!
+## PERSONAL WEBSITE
 <p align="center">
 	<a href="noahzhang.com"><img img src="https://img.shields.io/badge/-PERSONAL_WEBSITE-lightgrey" alt="PERSONALWEBSITE"/></a>
 
