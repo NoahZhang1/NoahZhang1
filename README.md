@@ -6,7 +6,7 @@
 
 ## PERSONAL WEBSITE
 <p align="center">
-	<a href="noahzhang.com"><img img src="https://img.shields.io/badge/-PERSONAL_WEBSITE-lightgrey" alt="PERSONALWEBSITE"/></a>
+	<a href="https://noahzhang.com"><img img src="https://img.shields.io/badge/-PERSONAL_WEBSITE-lightgrey" alt="PERSONALWEBSITE"/></a>
 
 
 ## My Projects 
