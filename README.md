@@ -1,36 +1,12 @@
 ## Hello! I am Yunnuo (Noah) Zhang
 
-- :school: I am a  `SENIOR` student at Georgia Tech studying Computer Science, my concentration is Infomation Network and Intelligence, I plan to graduate  in `May 2024`
+- :school: I am a  `MASRER` student at Georgia Tech studying Computer Science, my concentration is Infomation Network and Intelligence, I plan to graduate  in `Aug 2025`. I earned my `BACHELOR` degree at Georgia Tech in `May 2024`
 
 
 
 ## PERSONAL WEBSITE
 <p align="center">
 	<a href="https://noahzhang.com"><img img src="https://img.shields.io/badge/-PERSONAL_WEBSITE-lightgrey" alt="PERSONALWEBSITE"/></a>
-
-
-## My Projects 
-
-**Undergraduate Research @GT BrainLab**
-
-[![Auditory Steady State Response](https://img.shields.io/badge/-Auditory%20Steady%20State%20Response-blue)](https://github.com/NoahZhang1/ASSRStimulus)
-
-[[Thesis Proposal]](https://drive.google.com/file/d/1aPcBgBgYgd81r0rZbqd6cmArZs_dT-5i/view?usp=sharing)
-
-
-**Hack United Nations@Tsinghua University Shenzhen Institute**
-
-[[Sleepal - fNIRS-based sleep monitoring system]](http://www.x-lab.tsinghua.edu.cn/?c=nurture&a=projectshow&id=4109)
-
-
-**Some of My Previous Works**
-
-[![ElonBot](https://img.shields.io/badge/GPT2-Code%20Autocomplete-blue)](https://github.com/NoahZhang1/SC22-BatchA-wireless-union)
-[![ElonBot](https://img.shields.io/badge/GPT2-Fake%20News%20Generator-blue)](https://github.com/NoahZhang1/-SC22-BatchB-wireless-union)
-[![ElonBot](https://img.shields.io/badge/GPT2-GrammarFix/StyleChange%20Writing%20Assistant-blue)](https://github.com/NoahZhang1/SC22-BatchC-wireless-union-)
-[![TSA APP](https://img.shields.io/badge/TeleTube-blue)](https://github.com/NoahZhang1/youtube-bookmarker-starter-code)
-
-
 
 
 
