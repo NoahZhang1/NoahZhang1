@@ -1,6 +1,7 @@
 ## Hello! I am Yunnuo (Noah) Zhang
 
-- :school: I am a  `MASRER` student at Georgia Tech studying Computer Science, my concentration is Infomation Network and Intelligence, I plan to graduate  in `Aug 2025`. I earned my `BACHELOR` degree at Georgia Tech in `May 2024`
+- :school: I am a  `MASRER` student at Georgia Tech studying Computer Science, with concentration in Machine Learning, I plan to graduate  in `Aug 2025`.
+- I earned my `BACHELOR` degree at Georgia Tech in `May 2024`
 
 
 
