@@ -1,6 +1,6 @@
 ## Hello! I am Yunnuo (Noah) Zhang
 
-- :school: I am a  `MASTER` student at Georgia Tech studying Computer Science, with concentration in Machine Learning, I plan to graduate  in `2025`.
+- :school: I am a  `Ph.D.` student at Georgia Tech in Machine Learning, I plan to graduate  in `2030`.
 - I earned my `BACHELOR` degree at Georgia Tech in `May 2024`
 
 <p align="center">
